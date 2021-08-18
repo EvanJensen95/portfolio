@@ -1,0 +1,94 @@
+body {
+  background-image: url("https://cdn.staticcrate.com/stock-hd/effects/footagecrate-4k-looping-tech-background-clean-blue-2-prev-full.png");
+  background-attachment: fixed;
+}
+
+h1 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: oblique;
+  text-align: center;
+  color: rgb(164, 164, 164);
+}
+h2 {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: oblique;
+  color: rgb(164, 164, 164);
+}
+h3 {
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  color: rgb(164, 164, 164);
+}
+/* h4 {
+      text-align: center;
+      font-family: Arial, Helvetica, sans-serif;
+  } */
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.intro {
+  text-align: center;
+}
+.row1 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.column {
+  flex: 33.33%;
+  padding: 5px;
+}
+
+.row2 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+.projectTitle {
+  text-decoration: underline white;
+}
+.homepage {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 10px;
+}
+.survery {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 10px;
+}
+.moods {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 10px;
+}
+.moodGuess {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 10px;
+}
+.app {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 10px;
+}
+.linkedin {
+  margin-bottom: 10px;
+}
+.app {
+  margin-top: 10px;
+}
+a {
+  color: rgb(56, 175, 248);
+}
